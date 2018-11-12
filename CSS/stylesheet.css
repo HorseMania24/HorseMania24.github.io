@@ -2,15 +2,3 @@ body {
 font-family: sans-serif;
 
 }
-.container{
- max-width: 960px;
- margin: 0 auto;
- font-size: 24px;
- padding: 25px;
-}
-.parallaz{
- background: url("https://media.discordapp.net/attachments/490765403555889163/511268709416042506/White.png?width=841&height=474") no-repeat center;
-background-size: cover;
-background-attachment: fixed;
-height: 500px;
-}
